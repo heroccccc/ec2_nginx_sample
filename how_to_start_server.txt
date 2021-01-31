@@ -1,0 +1,6 @@
+1:nginxをスタート
+https://blog.mothule.com/web/nginx/web-nginx-getting-started-step1-on-mac
+
+2:uwsgiを起動
+https://qiita.com/morinokami/items/e0efb2ae2aa04a1b148b
+
